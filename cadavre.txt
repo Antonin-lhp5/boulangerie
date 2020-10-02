@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 le leader vas à la boulangerie quand...
+=======
+le leader vas à la boulangerie quand  -Victor
+soudain il donne son bras -Raphaël
+au boulanger, il lui répond non ! -Matthias
+Il lui demande alors sa jambe de bois. Théo
+car des dents d'acier c'est bien pratique ! Mike
+pour mordre efficacement -houlé
+il vaut mieux avoir un bon dentiste ! Christopher
+il quitte la boulangerie ! Brice
+Soudain un chat poulpe apparait et domina le monde ! -Celine
+>>>>>>> devBranch
